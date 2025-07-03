@@ -11,11 +11,11 @@ Git Provides a numerous benefits to developers and development teams:
 5. Open Source Projects
 
 # Git concepts
-    **Repository**
-    **Clone**
-    **Stage**
-    **Commit**
-    **Branch**
-    **Merge**
-    **Pull**
-    **Push**
+1. Repository
+2. Clone
+3. Stage
+4. Commit
+5. Branch
+6. Merge
+7. Pull
+8. Push
