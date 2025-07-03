@@ -3,6 +3,7 @@ Git is an *open-source distributed version control system (DVCS)* that allows de
 
 # Why Use Git ?
 Git Provides a numerous benefits to developers and development teams:
+
 1. Version Control
 2. Collaboration
 3. Backup
@@ -10,11 +11,11 @@ Git Provides a numerous benefits to developers and development teams:
 5. Open Source Projects
 
 # Git concepts
-    - **Repository**
-    -  **Clone**
-    -  **Stage**
-    -  **Commit**
-    -  **Branch**
-    -  **Merge**
-    -  **Pull**
-    -  **Push**
+    **Repository**
+    **Clone**
+    **Stage**
+    **Commit**
+    **Branch**
+    **Merge**
+    **Pull**
+    **Push**
